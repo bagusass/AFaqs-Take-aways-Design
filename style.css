@@ -1,0 +1,92 @@
+.my-custom-faq {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.my-custom-faq h2 {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.my-custom-faq p {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.5;
+}
+
+/* Style for individual FAQs */
+.my-custom-faq .faq-question {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.my-custom-faq .faq-answer {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+/* Style for key takeaways */
+.key-takeaways {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #e0f7fa;
+    border-left: 5px solid #00acc1;
+    font-style: italic;
+}
+
+.key-takeaways h3 {
+    font-size: 1.2em;
+    color: #007c91;
+    margin-bottom: 5px;
+}
+
+.key-takeaways ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.custom-key-takeaways {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #e0f7fa; /* Warna latar belakang */
+    border-left: 5px solid #00acc1; /* Garis batas di sisi kiri */
+    font-style: italic; /* Gaya font miring */
+}
+
+.custom-key-takeaways h2, .custom-key-takeaways h3, .custom-key-takeaways h4 {
+    font-size: 1.2em;
+    color: #007c91; /* Warna teks */
+    margin-bottom: 10px; /* Jarak antar elemen */
+}
+
+.custom-key-takeaways ul, .custom-key-takeaways p {
+    list-style-type: square; /* Jenis simbol untuk list */
+    padding-left: 20px; /* Padding di sisi kiri */
+    font-size: 1em;
+    line-height: 1.5; /* Tinggi baris */
+}
+
+.custom-faqs {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f9f9f9; /* Warna latar belakang untuk FAQs */
+    border: 1px solid #ddd; /* Garis batas */
+    border-radius: 5px; /* Radius sudut */
+}
+
+.custom-faqs h2, .custom-faqs h3, .custom-faqs h4 {
+    font-size: 1.5em;
+    color: #333; /* Warna teks */
+    margin-bottom: 10px; /* Jarak antar elemen */
+}
+
+.custom-faqs p {
+    font-size: 1em;
+    color: #666; /* Warna teks */
+    line-height: 1.5; /* Tinggi baris */
+}
+
